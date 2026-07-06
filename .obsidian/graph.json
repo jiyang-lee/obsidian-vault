@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "file:Heat_Grid_Agent",
+      "query": "path:에이전트/시뮬레이션  ",
       "color": {
         "a": 1,
         "rgb": 11392604
@@ -40,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.34157913570340154,
-  "close": true
+  "close": false
 }
