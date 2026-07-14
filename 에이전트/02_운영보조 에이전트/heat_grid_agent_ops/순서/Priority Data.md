@@ -18,11 +18,11 @@
 |`raw_card`|원본 priority card 전체 JSON|
 |`created_at`|생성 시각|
 # 2. PRIORITY_CARD_REVIEW_REASONS
-|컬럼|의미|
-|---|---|
-|`review_reason_id`|review reason row ID|
-|`card_id`|어떤 card의 reason인지|
-|`reason_code`|review 사유 코드|
+| 컬럼                 | 의미                   |
+| ------------------ | -------------------- |
+| `review_reason_id` | review reason row ID |
+| `card_id`          | 어떤 card의 reason인지    |
+| `reason_code`      | review 사유 코드         |
 # 3. 저장 구조
 
 window 관련 값      → windows
